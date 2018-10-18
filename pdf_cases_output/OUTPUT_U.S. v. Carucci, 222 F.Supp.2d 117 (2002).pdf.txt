@@ -1,0 +1,1287 @@
+Williams, Brooke 6/26/2015
+For Educational Use Only
+
+U.S. v. Carucci, 222 F.Supp.2d 117 (2002)
+
+222 F.Supp.2d 117
+
+United States District Court,
+
+D. Massachusetts.
+
+UNITED STATES of America,
+
+v.
+
+Michael L. CARUCCI, Defendant.
+
+No. CRIM.97–10060–REK.
+
+ |  Aug. 15, 2002.
+
+Jury  returned  guilty  verdict  on  six  federal  counts  of
+engaging  in  transactions  in  criminally  derived  property.
+Defendant  moved  for  judgment  of  acquittal  and  for
+new  trial.  The  District  Court,  Keeton,  J.,  held  that:  (1)
+evidence  was  insufficient  to  satisfy  knowledge  element  as
+to  four  of  six  subject  transactions  that  bore  no  indicia
+of  being  out  of  the  ordinary;  (2)  evidence  was  sufficient
+to  satisfy  knowledge  element  as  to  remaining  two  counts
+involving  insufficiently  identified  bank  account  holder;  (3)
+prosecutorial misconduct, consisting of overcharging, did
+not warrant dismissal of two remaining counts or new trial on
+those counts.
+
+Cases that cite this headnote
+
+[2]
+
+United States
+
+Mints, Assay Offices, Coinage, and Money
+
+Involvement  of  defendant,  a  person  engaged
+in  real  estate  closings  and  settlements,  with
+transfer  of  money  via  check  for  purchase  of
+condominium  unit  was  sufficient  evidence  of
+knowledge element of money laundering charge,
+where name of account holder was not generally
+known  to  public  or  bank  employees  or  those
+engaged  in  real  estate  transactions  involving
+condominium  units,  and  holder  was  identified
+only as trustee of realty trust apparently created
+only  for  purchase  and  holding  of  one  unit
+in  condominium  building;  factors  supported
+inference  that  there  was  something  out  of  the
+ordinary  about  transaction,  and  about  second
+similar transaction by same account holder. 18
+U.S.C.A. § 1957.
+
+Cases that cite this headnote
+
+Motions granted in part and denied in part.
+
+[3]
+
+United States
+
+West Headnotes (5)
+
+[1]
+
+United States
+
+Mints, Assay Offices, Coinage, and Money
+
+Evidence that defendant, a person engaged in real
+estate closings and settlements, was involved in
+transfer via check of payments of approximately
+$36,000,  $15,000  and  $27,500  over  two-week
+period  from  laundromat  owner  to  supplier  of
+laundromat equipment was insufficient to satisfy
+knowledge element of money laundering charge,
+since in each case check was payable to corporate
+entity engaged regularly in receiving payments
+of  like  amounts  for  equipment  for  use  in
+laundromats  like  that  operated  by  owner,  and
+supplier  in  fact  treated  checks  as  routine  and
+acceptable method of payment for furnishing and
+installing equipment. 18 U.S.C.A. § 1957.
+
+Mints, Assay Offices, Coinage, and Money
+
+Evidence that defendant, a person engaged in real
+estate closing and settlements, was involved in
+transfer via check of payment of approximately
+$16,000  for  purchase  of  condominium  unit,
+payable  to  law  firm  regularly  engaged  in
+receiving payments of like sums for purchase of
+real estate, was insufficient to satisfy knowledge
+element  of  money  laundering  charge,  even
+taking into account fact that check was drawn on
+banking  institution  located  in  same  geographic
+area  that  lent  its  name  to  known  criminal
+enterprise. 18 U.S.C.A. § 1957.
+
+Cases that cite this headnote
+
+[4]
+
+Criminal Law
+
+Misconduct of Counsel for Prosecution
+
+Criminal Law
+
+Conduct and Argument of Prosecutor
+
+ © 2015 Thomson Reuters. No claim to original U.S. Government Works.
+
+1
+
+Williams, Brooke 6/26/2015
+For Educational Use Only
+
+U.S. v. Carucci, 222 F.Supp.2d 117 (2002)
+
+Prosecutorial  misconduct  as  to  defendant
+convicted  of  two  counts  of  money  laundering,
+consisting  of  unwarranted  overcharging  for
+money  laundering  conspiracy,  98  substantive
+money 
+laundering  counts,  and  Racketeer
+Influenced  and  Corrupt  Organizations  Act
+(RICO)  count,  did  not  by  itself  warrant  post-
+conviction dismissal or new trial. 18 U.S.C.A. §
+1957; Fed.Rules Cr.Proc.Rule 33, 18 U.S.C.A.
+
+Cases that cite this headnote
+
+[5]
+
+Criminal Law
+
+Misconduct of Counsel for Prosecution
+
+Criminal Law
+
+Weight and Sufficiency of Evidence in
+
+General
+
+Federal  court  may  grant  new 
+trial  either
+for  prosecutorial  misconduct  or  insufficiency
+of  evidence.  Fed.Rules  Cr.Proc.Rule  33,  18
+U.S.C.A.
+
+Cases that cite this headnote
+
+Attorneys and Law Firms
+
+Richard L. Hoffman, United States Attorney's Office, Boston,
+MA, for U.S. Attorneys.
+
+Memorandum and Order
+
+KEETON, District Judge.
+
+I. The Pending Post–Verdict
+
+Motion for Judgment of Acquittal
+
+Pending for decision is Defendant's Post–Verdict Motion for
+Judgment of Acquittal (Docket No. 261, filed April 22, 2002).
+
+Also before the court are the following associated filings:
+
+(1)  United  States'  Opposition  to  Defendant's  Post–Verdict
+Motion for Judgment of Acquittal (Docket No. 273, filed May
+6, 2002);
+
+(2)  Defendant's  Response  to  United  States'  Opposition  to
+Defendant's Post–Verdict Motion for Judgment of Acquittal
+(Docket No. 278, filed May 17, 2002);
+
+(3)  Copies  of  Relevant  Pages  of  Trial  Transcript  filed  by
+Defendant (Docket No. 287, filed May 30, 2002);
+
+*118  Kenneth J. Fishman, Fishman, Ankner & Horstman,
+LLP, Boston, MA, for Stephen J. Flemmi, defendant.
+
+(4)  United  States'  Supplemental  Response  to  Defendant's
+May 30 Filing (Docket No. 288, filed May 31, 2002); and
+
+Martin  G.  Weinberg,  Oteri,  Weinberg  &  Lawson,  Boston,
+MA, for Michael L. Carucci, defendant.
+
+(5)  Reply  by  Defendant  to  Government's  Supplemental
+Response (Docket No. 289, filed June 3, 2002).
+
+John T. Burns, Boston, MA, for Stephen J. Hussey, interested
+party.
+
+Jonathan  M.  Albano,  Thomas  J.  Hennessey,  Anthony  E.
+Fuller,  Bingham,  McCutcheon,  L.L.P.,  Boston,  MA,  for
+Richard Lehr, interested party.
+
+Sean M. Beagan, Gargano and Associates, Thomas Graves
+Landing,  Cambridge,  MA,  for  Paul  A.  Gargano,  interested
+party.
+
+II. Procedural History of This Case
+
+A. The Indictment
+On March 11, 1997, a Grand Jury of the United States District
+Court  for  the  District  of  Massachusetts  returned  a  103–
+Count Indictment against Stephen J. Flemmi and Michael L.
+Carucci. It charged only Flemmi in Counts 67–69. It charged
+against both,
+
+*119  Edward T. Hinchey, Sloane & Walsh, Boston, MA, for
+Estate of Michael J. Donahue, interested party.
+
+in  Count  1,  a  Money  Laundering  Conspiracy  under  18
+U.S.C. § 1956(h);
+
+ © 2015 Thomson Reuters. No claim to original U.S. Government Works.
+
+2
+
+Williams, Brooke 6/26/2015
+For Educational Use Only
+
+U.S. v. Carucci, 222 F.Supp.2d 117 (2002)
+
+in  Counts  2–66,  substantive  money-laundering  offenses
+under 18 U.S.C. § 1956;
+
+in  Counts  70–102,  transactions  in  criminally  derived
+property under 18 U.S.C. § 1957; and
+
+in  Count  103,  a  RICO  Conspiracy  under  18  U.S.C.  §
+1962(d).
+
+(Docket No. 1, filed March 11, 1997).
+
+the 
+
+indictment  were  Money  Laundering
+Concluding 
+Forfeiture  Allegations 
+and  Racketeering  Forfeiture
+Allegations, the practical effect of which was to deprive both
+defendants of access to their respective interests in numerous
+real estate parcels and bank accounts, regardless of whether or
+not the government would be able to prove its charges at trial.
+
+The indictment also alleged that Stephen J. Flemmi had been
+involved “continuously since the 1960s ... in organized crime
+within  the  District  of  Massachusetts  and  elsewhere”  and
+during the 1970s “acted in a supervisory position in a criminal
+organization known by various names, including ‘The Winter
+Hill Gang’ and ‘South Boston.’ ” The opening paragraph of
+the “INTRODUCTION” of the indictment added, as part of
+paragraph (a):
+
+In  or  about  1979,  the  defendant
+STEPHEN  J.  FLEMMI  and  James
+J.  Bulger  became  the  leaders  of  the
+Winter  Hill  Gang.  The  defendant
+STEPHEN J. FLEMMI has remained
+a leader of the Winter Hill Gang up to
+the date of this indictment.
+
+Id.
+
+After  allegations  in  part  (b)  about  income  from  unlawful
+activity  as  sources  of  Flemmi's  income  and  allegations
+in  part  (c)  about  MLC  Properties  Inc.,  d/b/a  Group
+Boston  Real  Estate  (also  called  Group  Boston),  as  a
+Massachusetts  Corporation  engaged  in  the  business  of
+brokering, managing, developing, and investing in real estate
+properties, characterizing it as a  *120  “financial institution”
+as that phrase is used in 18 U.S.C. § 1956(c)(6) and 31 U.S.C.
+§ 5312(a)(2), the INTRODUCTION continued:
+
+(d)  The  defendant  MICHAEL  L.  CARUCCI  is  the
+President, Clerk, Treasurer and Director of Group Boston
+and  owns  100%  of  the  outstanding  shares  of  stock  in
+Group Boston. The defendant MICHAEL L. CARUCCI is
+a person involved in real estate closings and settlements,
+and is engaged in, and has activities which affect, interstate
+and foreign commerce.
+
+(e)  Between  approximately  1991  and  the  present,  the
+defendant  MICHAEL  L.  CARUCCI  has  participated
+in  multiple  business  and  real  estate  ventures  with  the
+defendant  STEPHEN  J.  FLEMMI,  as  the  defendant
+FLEMMI's partner and otherwise.
+
+Id.
+
+B. Availability of Prompt Trial
+The judge to whom this case was randomly drawn under the
+court's assignment system was available to try the charges in
+this  case  against  both  defendants  together,  or  against  them
+separately  in  sequence,  as  appropriate,  during  the  period
+provided by law for speedy trial in the absence of excludable
+time apart from that incident to severance, if severance had
+been  determined  to  be  appropriate.  It  was  approximately
+five  years  before  any  part  of  the  case  came  to  trial.  Trial
+commenced  with  jury  selection  on  March  11,  12,  and  14,
+2002, on 100 of 103 Counts, and against defendant Carucci
+only. The court at all times after indictment in 1997 had been
+prepared  to  try  the  case  promptly  upon  its  being  ready  for
+trial.  For  a  period  of  a  few  months  the  originally  assigned
+judge would have been unavailable because of major surgery,
+and the case would then have been tried before another judge
+of  the  court.  But  the  originally  assigned  judge  was  again
+available before any part of the case was ready for trial.
+
+C. The Pattern of Delay
+On  the  full  record  that  is  now  before  me  in  this  case,
+I  find  that  the  United  States  Attorney  for  the  District  of
+Massachusetts and the Assistant United States Attorneys to
+whom he assigned responsibility for prosecution of this case
+chose not to seek a prompt trial. Either according to an initial
+plan or by a series of decisions as circumstances associated
+with  the  case  developed,  they  preferred  to  delay  trial  for
+approximately five years. Each of the defendants also had his
+own distinctive reasons for preferring delay over prompt trial.
+
+ © 2015 Thomson Reuters. No claim to original U.S. Government Works.
+
+3
+
+Williams, Brooke 6/26/2015
+For Educational Use Only
+
+U.S. v. Carucci, 222 F.Supp.2d 117 (2002)
+
+Thus, all parties requested extensions of time on grounds the
+court found acceptable and consistent with excludable-time
+provisions of rules regarding speedy trial rights of the public
+and the parties.
+
+D. Status of the Case at Time of Impanelment
+When  the  government  eventually  declared  it  was  ready  to
+proceed with trial, it was barred from proceeding with the trial
+against defendant Stephen J. Flemmi under a plea agreement
+in United States v. Stephen J. Flemmi, Criminal Number 94–
+10287–MLW, a case in which the indictment also included
+allegations of money laundering and conspiracy to commit
+money  laundering.  (See  United  States'  Motion  to  Dismiss
+Indictment  with  Respect  to  Defendant  Stephen  J.  Flemmi,
+Docket No. 186, filed March 18, 2002; the court allowed that
+motion by an endorsement on its margin on March 19, 2002).
+
+Before  the  trial  commenced,  the  court  concluded  also  that
+discovery requests and motions to dismiss all or at least some
+counts  of  the  indictment  against  the  defendant  Michael  L.
+Carucci, ultimately determined to be meritorious at least in
+part,  *121  had to be heard and decided before the court could
+properly submit the case to the jury that was impaneled on
+March 11, 12, and 14, 2002.
+
+The  court  denied  the  requests  that  the  court  hold  an
+evidentiary hearing and make its decision on whether it would
+submit  the  conspiracy  charges  against  Michael  L.  Carucci
+before impaneling a jury. The court gave notice that instead
+it would follow the practice of making its final decision on
+that  matter  after  the  close  of  all  the  evidence,  as  approved
+and directed by the Court of Appeals for the First Circuit in,
+among  other  cases,  United  States  v.  Ciampaglia,  628  F.2d
+632, 638 (1st Cir.1980), and United States v. Bradshaw, 281
+F.3d 278, 284 (1st Cir.2002).
+
+Because  the  government  still  had  not  disclosed  admissible
+evidence  sufficient  for  the  case  to  go  to  the  jury  against
+defendant Michael L. Carucci on either of the two conspiracy
+Counts, the court warned government counsel that it would
+allow  a  mistrial  if  requested  by  defendant  Carucci  on
+adequately  supported  grounds  that  the  government  had
+withheld evidence that it should have disclosed in advance
+of trial and in fact disclosed only during trial, and that if the
+government did not produce during trial admissible evidence
+sufficient  to  close  the  gaps  in  the  governments's  advance
+
+proffer  of  evidence  to  show  that  Carucci  had  knowingly
+become a member of a conspiracy charged against him, the
+court expected to direct acquittal at least on the conspiracy
+counts  and  possibly  on  substantive  counts  on  which  the
+court  had  declined  to  direct  acquittal  before  impanelment
+but  with  notice  that  it  would  consider  on  the  merits,  count
+by count, after the close of evidence and before submission
+to the jury, the defense motion for acquittal because of the
+government's failure to persuade the court that it had a valid
+legal theory, supported by adequate evidence for submission
+of each particular count to the jury.
+
+E. Order of Acquittal on Specified Counts Before
+Submission of Other Counts to the Jury
+Near the conclusion of the Rule 29 Hearing, on April 4, 2002,
+the court stated and explained its order of acquittal on Counts
+1, 14–66, 76–103. (Transcript of Rule 29 Hearing of April
+4,  2002,  Docket  No.  263,  at  pp.  30–33).  As  noted  before,
+Carucci was not charged in Counts 67–69.
+
+Thus, the counts remaining to be submitted to the jury were
+Counts 2–13 and 70–75. See id. at p. 33.
+
+F. Verdict
+In the Verdict received on April 16, 2002, the jury found the
+defendant:
+
+• NOT GUILTY on Counts 2–13, and
+
+• GUILTY on Counts 70–75.
+
+(Verdict, Docket No. 258).
+
+III. Applicable Law
+
+A. Reservations Stated by the Court in the Charge
+Conference
+In  the  Charge  Conference  of  April  5,  2002,  very  helpful
+suggestions of counsel for the government and the defendant
+clarified  issues  that  had  been  troubling  in  earlier  hearings.
+With the benefit of these suggestions, the court was then and
+still is now satisfied that the charge given to the jury correctly
+states the law on nearly all of the issues addressed.
+
+ © 2015 Thomson Reuters. No claim to original U.S. Government Works.
+
+4
+
+Williams, Brooke 6/26/2015
+For Educational Use Only
+
+U.S. v. Carucci, 222 F.Supp.2d 117 (2002)
+
+On  a  few  of  the  objections  then  made  and  later  stated  by
+defense  counsel,  after  the  charge  was  given  to  the  jury
+and  before  they  commenced  deliberations,  I  expressed  my
+concern  and  gave  notice  of  my  willingness  to  reconsider
+afresh  in  post-verdict  proceedings  any  matters  essential  to
+deciding what rulings I should make on post-verdict motions.
+These matters are  *122  identified in the Transcript of the
+Charge Conference (Docket No. 264).
+
+(1)  One  issue  of  ongoing  concern  was  whether  the
+government had advanced or could advance any valid legal
+theory  of  conspiracy  together  with  a  proffer  of  admissible
+evidence sufficient to support a finding of a conspiracy that
+defendant Carucci had manifested agreement to becoming a
+member of the conspiracy. See defense counsel's argument,
+id. at 3–6, and my response, id. at 6–7.
+
+(2)  Another  issue  concerned  whether  the  government  had
+advanced or could advance, for each substantive count, any
+viable  legal  theory  together  with  a  proffer  of  admissible
+evidence sufficient to support a jury finding of each of the
+elements  of  the  substantive  offense  identified  by  that  legal
+theory beyond reasonable doubt.
+
+issues  concerning  whether 
+
+Among  the  subsidiary  issues  bearing  on  particular  counts
+were 
+the  government  had
+proffered or ever could proffer admissible evidence sufficient
+to  support  a  finding  that  profits  from  any  of  the  alleged
+unlawful  activities  ended  up  in  bank  accounts  upon  which
+checks  to  American  Equipment,  produced  by  Flemmi
+individually or through the Mary Irene Trust, were drawn. Id.
+at 24.
+
+Another  subsidiary  issue  concerned  whether  Flemmi's
+daughter, Jeannette Benedetti, or others in the family, gave
+to  RECOLL  Management  funds  derived  from  identifiable
+unlawful activities for the purchase of a condominium from
+or  through  RECOLL  Management.  See  defense  counsel's
+argument, id. at 3–6, and my response, id. at 6–7.
+
+Another  subsidiary  issue  concerned  causal  connection.
+Defendant agreed that the government was not required under
+18  U.S.C.  §  1956  to  trace  proceeds  of  a  particular  sale  (or
+other transaction) to a particular specified unlawful activity,
+id. at 24, but argued that the government had to show some
+causal connection between an identifiable unlawful activity
+
+and bank funds used in the transaction charged in a particular
+count, id. at 3, 24.
+
+(3) Another set of issues concerned the instructions on willful
+blindness. See id. at 20–24.
+
+(4)  Another  set  of  issues  concerned  the  defense  contention
+of  government  misconduct  by  concealment,  id.  at  31,  and
+the  defense  contention  that  one  or  more  counts  should  be
+dismissed  by  application  of  a  legal  test  for  dismissal  of
+charges in an indictment under a “factors” analysis, id. at 32–
+33.
+
+(5) Another set of issues concerned the use and meaning in
+various contexts of the word “willfully,” id., at 34–36, 39.
+
+(6)  Another  set  of  issues  concerned  the  defense  contention
+that  the  government  had  proffered  no  admissible  evidence,
+direct  or  circumstantial,  that  Flemmi  collected  extortionate
+extensions of credit, id. at 49–52.
+
+B. Applicable Law as Stated in the Charge to the Jury
+Excerpts  from  the  Charge  to  the  Jury  that  are  potentially
+relevant  to  issues  remaining  for  decision  on  post-verdict
+motions are recited here:
+
+The charges submitted to you are in Counts 2–13 and 70–
+75 of the indictment.
+
+. . . . .
+
+Counts 70–75 charge that the defendant Michael Carucci,
+along with Stephen Flemmi, knowingly violated the statute
+prohibiting  monetary  transactions  in  criminally  derived
+property, with a value of over $10,000, in violation of Title
+18, United States Code, Section 1957.
+
+The  defendant  contends  that  he  did  not  know  that  any
+of the funds involved in the purchase of the commercial
+condominium at 362 Commonwealth Avenue,  *123  the
+equipment from Commonwealth Laundry, or the services
+from  Mr.  Heat  derived  from  any  unlawful  activity  by
+Stephen Flemmi. He instead believed that the funds used by
+Flemmi or his family were legitimate funds derived from
+bank accounts. Even if you believe that Mr. Carucci was
+aware that Flemmi's reputation was not favorable, absent
+proof  beyond  a  reasonable  doubt  that  he  knew  that  the
+
+ © 2015 Thomson Reuters. No claim to original U.S. Government Works.
+
+5
+
+Williams, Brooke 6/26/2015
+For Educational Use Only
+
+U.S. v. Carucci, 222 F.Supp.2d 117 (2002)
+
+funds for the specific transactions that are the subject of
+Counts 2–13 and 70–75 derived from Flemmi's unlawful
+activity then Mr. Carucci is entitled to an acquittal on all
+counts.
+
+. . . . .
+
+Counts 70–75 of the indictment contain allegations of acts
+by  defendant  Michael  Carucci  and  others  that  constitute
+transactions in criminally derived property in violation of
+Title 18, United States Code, Section 1957.
+
+Title  18,  Section  1957(a)  of  the  United  States  Code
+provides, in pertinent part, that:
+
+Whoever  ...  knowingly  engages  or  attempts  to  engage
+in a monetary transaction in criminally derived property
+that  is  of  a  value  greater  than  $10,000  and  is  derived
+from specified unlawful activity ... shall be guilty of an
+offense against the United States.
+
+In order to prove a violation of Title 18, United States Code,
+Section  1957,  the  government  must  prove  the  following
+three elements beyond a reasonable doubt:
+
+First  Element.  The  defendant  engaged  or  attempted  to
+engage in a monetary transaction with a value of more than
+$10,000.
+
+Second  Element.  The  defendant  knew  that  the  property
+involved  in  the  transaction  had  been  derived  from  some
+form of criminal activity.
+
+Third  Element.  The  property  involved  in  the  transaction
+was actually derived from specified unlawful activity.
+
+First Eement. To satisfy the first element, the government
+must  prove  that  the  defendant  knowingly  engaged  in,  or
+attempted to engage in, a monetary transaction involving
+property of a value greater than $10,000.
+
+A monetary transaction is the deposit, withdrawal, transfer,
+or exchange, in or affecting interstate commerce, of funds
+or  a  monetary  instrument  by,  through,  or  to  a  financial
+institution.  I  have  previously  defined  for  you  the  terms
+“monetary instrument” and “financial institution.”
+
+Thus, the transaction must involve three things:
+
+First, it must be in, or have some minimal relationship to,
+interstate commerce.
+
+Second, it must be by, through, or to a financial institution.
+For example, drawing a check on a bank account would
+satisfy this requirement.
+
+Third, the property involved must have a value greater than
+$10,000.
+
+Second  Element.  To  prove  the  second  element,  the
+government  must  show  that  the  defendant  knew  that  the
+money involved in the transaction was criminally derived
+property.
+
+Criminally  derived  property 
+includes  any  property
+constituting or derived from proceeds of criminal activity.
+This means that the property must have been obtained from
+some previous, separate criminal action.
+
+The government is only required to show that the defendant
+knew  that  the  property  was  derived  from  some  form
+of  criminal  activity.  It  does  not  have  to  prove  that  the
+defendant  knew  what  particular  type  of  criminal  act
+produced the property.
+
+*124   In  order  to  prove  the  element  of  knowledge,  the
+government must show that the defendant actually knew
+that the property was derived from criminal activity. It is
+not sufficient for the government to show that the defendant
+might have known or should have known.
+
+In  determining  whether  the  defendant  knew  that  the
+property was derived from criminal activity, the jury must
+make  a  decision  about  the  defendant's  state  of  mind  at
+the time of the transaction. It is impossible to prove this
+directly, because the jury cannot look into the defendant's
+mind. Therefore, you may rely on circumstantial evidence
+in making this determination. You should consider all the
+facts  and  circumstances  shown  in  the  evidence  in  order
+to  infer  with  a  reasonable  degree  of  accuracy  what  the
+defendant's state of mind was.
+
+In deciding whether the defendant acted knowingly, you
+may  infer  that  the  defendant  had  knowledge  that  the
+property  involved  in  the  transaction  was  derived  from
+criminal activity if you find that he deliberately closed his
+eyes to the fact that otherwise would have been obvious to
+
+ © 2015 Thomson Reuters. No claim to original U.S. Government Works.
+
+6
+
+Williams, Brooke 6/26/2015
+For Educational Use Only
+
+U.S. v. Carucci, 222 F.Supp.2d 117 (2002)
+
+him. It is for the jury to decide whether the defendant was
+willfully blind to the fact that the property was criminally
+derived and, if so, what inference should be drawn. It is
+important, however, to bear in mind that mere negligence
+or mistake in failing to learn that the property was derived
+from criminal activity is not sufficient.
+
+The government is not required to prove that the defendant
+knew  that  the  transaction  involving  criminally  derived
+property was itself an illegal act. In other words, although
+the  defendant  must  know  that  the  property  was  derived
+from criminal acts, the law does not require that he be aware
+that the transaction involving that property was a separate
+illegal act.
+
+Third Element. To prove the third element of the offense,
+the government must show that the property involved in the
+transaction  was  actually  derived  from  specified  criminal
+activity.
+
+“Specified criminal activity” refers to crimes included in a
+list of offenses included in the statute.
+
+I  have  already  instructed  you  on  the  specified  unlawful
+activity alleged in the indictment.
+
+It  is  for  the  jury  to  decide  whether  the  government
+has  proved  beyond  a  reasonable  doubt  that  the  property
+involved in the transaction was actually derived from the
+criminal activities just mentioned.
+
+In  proving  the  third  element,  it  is  not  necessary  for  the
+government  to  show  that  all  of  the  property  involved  in
+the transaction was derived from the criminal activity. The
+government can meet its burden of proof even if some of
+the involved property was derived from lawful sources and
+was commingled with the criminally derived property in
+the transaction, so long as the government proves beyond
+reasonable  doubt  that  at  least  $10,000  of  each  monetary
+transaction was derived from specified unlawful activity.
+
+In  determining  whether  the  property  involved  in  a
+transaction  was  derived  from  specified  criminal  activity,
+you  may  consider  circumstantial  evidence  insofar  as  it
+would  support  common  sense  inferences  based  on  the
+realities of human experience.
+
+As already mentioned, the government must prove beyond
+a  reasonable  doubt  that  the  defendant  knew  that  the
+
+property  involved  in  the  transaction  was  derived  from
+criminal activity.
+
+The government, however, does not need to show that the
+defendant  knew  that  the  property  was  derived  from  any
+*125  of the offenses that qualify as “specified” criminal
+activity. All that is required is knowledge that the property
+was produced by some form of unlawful action.
+
+I  am  sending  a  copy  of  the  relevant  portion  of  the
+indictment into the jury room for you to have during your
+deliberations. You may use it to read the crimes which the
+defendant is charged with committing. You are reminded,
+however, that an indictment is merely an accusation and is
+not to be used by you as any proof of the conduct charged.
+
+(Charge to the Jury, Docket No. 305 at 17, 45–49).
+
+IV. Count 70
+
+Under applicable law, on Count 70 the government's burden
+was to prove beyond reasonable doubt each of the following
+three elements:
+
+First  Element.  The  defendant  engaged  or  attempted  to
+engage in a monetary transaction with a value of more than
+$10,000.
+
+Second  Element.  The  defendant  knew  that  the  property
+involved  in  the  transaction  had  been  derived  from  some
+form of criminal activity.
+
+Third  Element.  The  property  involved  in  the  transaction
+was actually derived from specified unlawful activity.
+
+Charge to the Jury, Part III above, at page 10. See also, e.g.,
+18 U.S.C. § 1957; United States v. Sokolow, 91 F.3d 396, 408
+(3d Cir.1996); United States v. Gabriele, 63 F.3d 61, 65 (1st
+Cir.1995).
+
+[1]
+ The transaction identified in Count 70 of the Indictment
+was  the  June  4,  1993  transfer,  in  the  amount  of  $35,883,
+of  Bank  of  Braintree  check  #  108  (account  #  146400161),
+payable  to  the  order  of  American  Equipment  Corp.  for
+the  purchase  of  laundromat  equipment  by  Commonwealth
+Laundries & Cleaners, Inc.
+
+ © 2015 Thomson Reuters. No claim to original U.S. Government Works.
+
+7
+
+Williams, Brooke 6/26/2015
+For Educational Use Only
+
+U.S. v. Carucci, 222 F.Supp.2d 117 (2002)
+
+I conclude that under applicable law the defense stated a valid
+objection  to  the  submission  of  this  count  to  the  jury.  The
+Bank  of  Braintree  check  was  payable  to  a  corporate  entity
+(American Equipment Corp.) engaged regularly in receiving
+payments  of  amounts  of  $35,000  or  more  for  equipment,
+installation,  and  maintenance  for  use  in  laundromats  like
+the one operated as Commonwealth Laundries & Cleaners,
+Inc., and American Equipment in fact treated it as a routine
+and  acceptable  method  of  payment  for  its  furnishing  and
+installing for this laundromat a type of upgrading equipment
+ordinarily required for equipment of the age of the equipment
+found  there  by  American  Equipment's  representatives.  The
+government's evidence received at the trial was insufficient
+as a matter of law to support a jury finding against defendant
+Carucci  on  the  Second  Element  (that  Carucci  knew  that
+the  property  involved  in  the  transaction  had  been  derived
+from  some  form  of  criminal  activity).  See  United  States  v.
+Tramunti,  500  F.2d  1334  (2d  Cir.1974)  (Federal  Rule  of
+Criminal Procedure 29 permits judgment of acquittal based
+on insufficiency of evidence).
+
+This  outcome  is  the  only  correct  outcome  if  the  “property
+involved” is held to be the “money” in the Bank of Braintree
+account  and  also  if  the  “property  involved”  is  held  to  be
+either the equipment that was upgraded or the equipment that
+American  Equipment  supplied  to  effect  the  upgrade.  Thus,
+this court erred as a matter of law in submitting Count 70 to
+the jury, and the jury verdict cannot have the effect of curing
+the court's error of law.
+
+I  take  into  account  also  the  government's  contention  that
+evidence received regarding the 1992 transactions involved in
+Counts 73–75 served not only as evidence bearing on Counts
+73–75 but also as circumstantial evidence bearing on the 1993
+transactions  involved  in  Counts  70–72.  The  weight  of  this
+evidence  as  it  bears  on  *126   Counts  70–72,  however,  is
+very  limited  and  is  not  sufficient,  when  added  to  the  other
+evidence  received  in  relation  to  Counts  70–72,  to  provide
+adequate support for a finding favorable to the government
+on the Second Element of the government's burden on Count
+70.  The  banking  transactions  and  properties  involved  in
+Counts  73–75  were  exceptional  rather  than  routine.  Those
+exceptional  qualities  of  the  1992  transactions  have  little
+weight  as  supporting  an  inference  of  knowledge  or  notice
+to  defendant  Carucci  that  anything  was  irregular  about  the
+1993  transactions  between  Commonwealth  Laundries  and
+American Equipment, and I conclude as a matter of law that
+
+adding  this  limited  evidence  to  that  bearing  on  Count  70,
+considered  above,  as  a  matter  of  law  does  not  overcome
+the  government's  failure  to  meet  its  burden  on  the  Second
+Element of Count 70.
+
+For these reasons, the Order below sustains the defendant's
+Post–Verdict Motion for Acquittal in Count 70.
+
+V. Count 71
+
+Under applicable law, on Count 71 the government's burden
+was to prove beyond reasonable doubt each of the following
+three elements:
+
+First  Element.  The  defendant  engaged  or  attempted  to
+engage in a monetary transaction with a value of more than
+$10,000.
+
+Second  Element.  The  defendant  knew  that  the  property
+involved  in  the  transaction  had  been  derived  from  some
+form of criminal activity.
+
+Third  Element.  The  property  involved  in  the  transaction
+was actually derived from specified unlawful activity.
+
+Charge to the Jury, Part III above, at page 10. See also, e.g.,
+18 U.S.C. § 1957; United States v. Sokolow, 91 F.3d 396, 408
+(3d Cir.1996); United States v. Gabriele, 63 F.3d 61, 65 (1st
+Cir.1995).
+
+The transaction identified in Count 71 of the Indictment was
+the  June  11,  1993  transfer,  in  the  amount  of  $15,108.18,
+of  Bank  of  Braintree  check  #  110  (account  #  146400161),
+payable  to  the  order  of  American  Equipment  Corp.  for
+the  purchase  of  laundromat  equipment  by  Commonwealth
+Laundries & Cleaners, Inc.
+
+I  conclude  that  under  applicable  law  the  defense  stated  a
+valid  objection  to  the  submission  of  this  count  to  the  jury.
+The  Bank  of  Braintree  check  was  payable  to  a  corporate
+entity  (American  Equipment  Corp.)  engaged  regularly  in
+receiving  payments  of  amounts  substantially  larger  than
+$15,000  for  equipment,  installation,  and  maintenance  for
+use  in  laundromats  like  that  of  Commonwealth  Laundries
+&  Cleaners,  Inc.,  and  American  Equipment  in  fact  treated
+it  as  a  routine  and  acceptable  method  of  payment  for  its
+furnishing  and  installing  for  this  laundromat  a  type  of
+
+ © 2015 Thomson Reuters. No claim to original U.S. Government Works.
+
+8
+
+Williams, Brooke 6/26/2015
+For Educational Use Only
+
+U.S. v. Carucci, 222 F.Supp.2d 117 (2002)
+
+upgrading equipment ordinarily required for equipment of the
+age of the equipment found there by American Equipment's
+representatives.  The  government's  evidence  received  at  the
+trial  was  insufficient  as  a  matter  of  law  to  support  a  jury
+finding  against  defendant  Carucci  on  the  Second  Element
+(that  Carucci  knew  that  the  property  involved  in  the
+transaction  had  been  derived  from  some  form  of  criminal
+activity).
+
+This  outcome  is  the  only  correct  outcome  if  the  “property
+involved” is held to be the “money” in the Bank of Braintree
+account  and  also  if  the  “property  involved”  is  held  to  be
+either the equipment that was upgraded or the equipment that
+American  Equipment  supplied  to  effect  the  upgrade.  Thus,
+this court erred as a matter of law in submitting Count 71 to
+the jury, and the jury verdict cannot have the effect of curing
+the court's error of law.
+
+I  take  into  account  also  the  government's  contention  that
+evidence  received  *127   regarding  the  1992  transactions
+involved in Counts 73–75 served not only as evidence bearing
+on Counts 73–75 but also as circumstantial evidence bearing
+on  the  1993  transactions  involved  in  Counts  70–72.  As
+explained  in  Part  IV  above,  however,  the  weight  of  this
+evidence as it bears on Counts 70–72 is very limited and is
+not sufficient, when added to the other evidence received in
+relation to Count 71, to provide adequate support for a finding
+favorable to the government on the Second Element of the
+government's burden on Count 71.
+
+For these reasons, the Order below sustains the defendant's
+Post–Verdict Motion for Acquittal in Count 71.
+
+VI. Count 72
+
+Under applicable law, on Count 72 the government's burden
+was to prove beyond reasonable doubt each of the following
+three elements:
+
+First  Element.  The  defendant  engaged  or  attempted  to
+engage in a monetary transaction with a value of more than
+$10,000.
+
+Second  Element.  The  defendant  knew  that  the  property
+involved  in  the  transaction  had  been  derived  from  some
+form of criminal activity.
+
+Third  Element.  The  property  involved  in  the  transaction
+was actually derived from specified unlawful activity.
+
+Charge to the Jury, Part III above, at page 10. See also, e.g.,
+18 U.S.C. § 1957; United States v. Sokolow, 91 F.3d 396, 408
+(3d Cir.1996); United States v. Gabriele, 63 F.3d 61, 65 (1st
+Cir.1995).
+
+The transaction identified in Count 72 of the Indictment was
+the June 16, 1993 transfer, in the amount of $27,461, of Bank
+of  Braintree  check  #  117  (account  #  146000648),  payable
+to the order of American Equipment Corp. for the purchase
+of  laundromat  equipment  by  Commonwealth  Laundries  &
+Cleaners, Inc.
+
+I conclude that under applicable law the defense stated a valid
+objection  to  the  submission  of  this  count  to  the  jury.  The
+Bank  of  Braintree  check  was  payable  to  a  corporate  entity
+(American Equipment Corp.) engaged regularly in receiving
+payments  of  amounts  larger  than  $27,500  for  equipment,
+installation, and maintenance for use in laundromats like that
+of Commonwealth Laundries & Cleaners, Inc., and American
+Equipment  in  fact  treated  it  as  a  routine  and  acceptable
+method of payment for its furnishing and installing for this
+laundromat a type of upgrading equipment ordinarily required
+for  equipment  of  the  age  of  the  equipment  found  there
+by American Equipment's representatives. The government's
+evidence  received  at  the  trial  was  insufficient  as  a  matter
+of  law  to  support  a  jury  finding  against  defendant  Carucci
+on the Second Element (that Carucci knew that the property
+involved in the transaction had been derived from some form
+of criminal activity).
+
+This  outcome  is  the  only  correct  outcome  if  the  “property
+involved” is held to be the “money” in the Bank of Braintree
+account  and  also  if  the  “property  involved”  is  held  to  be
+either the equipment that was upgraded or the equipment that
+American  Equipment  supplied  to  effect  the  upgrade.  Thus,
+this court erred as a matter of law in submitting Count 72 to
+the jury, and the jury verdict cannot have the effect of curing
+the court's error of law.
+
+I  take  into  account  also  the  government's  contention  that
+evidence received regarding the 1992 transactions involved in
+Counts 73–75 served not only as evidence bearing on Counts
+73–75 but also as circumstantial evidence bearing on the 1993
+
+ © 2015 Thomson Reuters. No claim to original U.S. Government Works.
+
+9
+
+Williams, Brooke 6/26/2015
+For Educational Use Only
+
+U.S. v. Carucci, 222 F.Supp.2d 117 (2002)
+
+transactions  involved  in  Counts  70–72.  The  weight  of  this
+evidence as it bears on Counts 70–72, however, is very limited
+and is not sufficient, when added to the other  *128  evidence
+received in relation to Count 72, to provide adequate support
+for  a  finding  favorable  to  the  government  on  the  Second
+Element of the government's burden on Count 72.
+
+For these reasons, the Order below sustains the defendant's
+Post–Verdict Motion for Acquittal on Count 72.
+
+VII. Count 73
+
+Under applicable law, on Count 73 the government's burden
+was to prove beyond reasonable doubt each of the following
+three elements:
+
+First  Element.  The  defendant  engaged  or  attempted  to
+engage in a monetary transaction with a value of more than
+$10,000.
+
+Second  Element.  The  defendant  knew  that  the  property
+involved  in  the  transaction  had  been  derived  from  some
+form of criminal activity.
+
+Third  Element.  The  property  involved  in  the  transaction
+was actually derived from specified unlawful activity.
+
+Charge to the Jury, Part III above, at page 10. See also, e.g.,
+18 U.S.C. § 1957; United States v. Sokolow, 91 F.3d 396, 408
+(3d Cir.1996); United States v. Gabriele, 63 F.3d 61, 65 (1st
+Cir.1995).
+
+[2]
+ The transaction identified in Count 73 of the Indictment
+was the December 9, 1992 transfer, in the amount of $30,500,
+of  Mount  Washington  Bank  check  #  153453,  payable  to
+the order of Jeannette Benedetti, Trustee, Comm # 1 Realty
+Trust, for purchase of Unit # 1, 362 Commonwealth Avenue,
+Boston, Massachusetts.
+
+I  conclude  that  under  applicable  law  the  defense  objection
+to  the  submission  of  this  count  to  the  jury  was  properly
+overruled. Although the amount gave no notice of potential
+irregularity of the transaction, the identification of the account
+holder only by a name not generally known to the public or to
+persons who were bank employees or were often engaged in
+real estate transactions involving units in a condominium, and
+identified only as trustee of a Realty Trust apparently created
+
+only for the purchase and holding of one unit in a building
+containing condominiums, gave indications of something out
+of the ordinary about this transaction.
+
+I  conclude  that  the  admissible  evidence  before  the  jury  in
+relation to this count was sufficient to support the verdict on
+Count 73.
+
+For these reasons, the Order below denies defendant Carucci's
+post-verdict motion for acquittal on Count 73.
+
+VIII. Count 74
+
+Under applicable law, on Count 74 the government's burden
+was to prove beyond reasonable doubt each of the following
+three elements:
+
+First  Element.  The  defendant  engaged  or  attempted  to
+engage in a monetary transaction with a value of more than
+$10,000.
+
+Second  Element.  The  defendant  knew  that  the  property
+involved  in  the  transaction  had  been  derived  from  some
+form of criminal activity.
+
+Third  Element.  The  property  involved  in  the  transaction
+was actually derived from specified unlawful activity.
+
+Charge to the Jury, Part III above, at page 10. See also, e.g.,
+18 U.S.C. § 1957; United States v. Sokolow, 91 F.3d 396, 408
+(3d Cir.1996); United States v. Gabriele, 63 F.3d 61, 65 (1st
+Cir.1995).
+
+[3]
+ The transaction identified in Count 74 of the Indictment
+was  the  December  9,  1992  transfer,  in  the  amount  of
+$16,408.37,  of  Winter  Hill  Federal  Savings  Bank  check  #
+449778014, payable to the order of Summers and Summers,
+for  purchase  of  Unit  #  1,  362  Commonwealth  Avenue,
+Boston, Massachusetts.
+
+*129  I conclude that under applicable law the defense stated
+a valid objection to the submission of this count to the jury.
+The  Winter  Hill  Federal  Savings  Bank  check  was  payable
+to  a  law  firm  engaged  regularly  in  receiving  payments  of
+amounts larger than $27,500 for the purchase of real estate
+for  residential  use  and  for  use  in  businesses  like  that  of
+Commonwealth  Laundries  &  Cleaners,  Inc.,  and  Summers
+
+ © 2015 Thomson Reuters. No claim to original U.S. Government Works.
+
+10
+
+Williams, Brooke 6/26/2015
+For Educational Use Only
+
+U.S. v. Carucci, 222 F.Supp.2d 117 (2002)
+
+and  Summers  in  fact  treated  it  as  a  routine  and  acceptable
+method  of  payment.  The  government's  evidence  received
+at  the  trial  was  insufficient  as  a  matter  of  law  to  support
+a  jury  finding  against  defendant  Carucci  on  the  Second
+Element (that Carucci knew that the property involved in the
+transaction  had  been  derived  from  some  form  of  criminal
+activity).
+
+This  outcome  is  the  only  correct  outcome  if  the  “property
+involved” is held to be the “money” in the Winter Hill Federal
+Savings  Bank  account  and  also  if  the  “property  involved”
+is held to be either the equipment that was upgraded or the
+equipment  that  American  Equipment  supplied  to  effect  the
+upgrade. Thus, this court erred as a matter of law in submitting
+Count  74  to  the  jury,  and  the  jury  verdict  cannot  have  the
+effect of curing the court's error of law.
+
+I  take  into  account  also  the  government's  contention  that
+the  fact  that  the  account  was  in  a  Winter  Hill  entity  gave
+indications  of  something  out  of  the  ordinary  about  the
+transaction. I conclude that the fact that a federally insured
+banking institution was located in the same area that Flemmi
+and James Bulger operated a criminal enterprise and that the
+criminal enterprise coincidentally shared part of its name with
+the  banking  institution  does  not  indicate  that  every  or  any
+check  drawn  on  that  institution  is  related  to  any  criminal
+enterprise or is otherwise out of the ordinary.
+
+For these reasons, the Order below sustains the defendant's
+Post–Verdict Motion for Acquittal on Count 74.
+
+IX. Count 75
+
+Under applicable law, on Count 75 the government's burden
+was to prove beyond reasonable doubt each of the following
+three elements:
+
+First  Element.  The  defendant  engaged  or  attempted  to
+engage in a monetary transaction with a value of more than
+$10,000.
+
+Second  Element.  The  defendant  knew  that  the  property
+involved  in  the  transaction  had  been  derived  from  some
+form of criminal activity.
+
+Third  Element.  The  property  involved  in  the  transaction
+was actually derived from specified unlawful activity.
+
+Charge to the Jury, Part III above, at page 10. See also, e.g.,
+18 U.S.C. § 1957; United States v. Sokolow, 91 F.3d 396, 408
+(3d Cir.1996); United States v. Gabriele, 63 F.3d 61, 65 (1st
+Cir.1995).
+
+The transaction identified in Count 75 of the Indictment was
+the December 9, 1992 transfer, in the amount of $70,000 of
+Hyde Park Savings Bank check # 61–074013040, payable to
+the order of Jeannette Benedetti, for purchase of Unit # 1, 362
+Commonwealth Avenue, Boston, Massachusetts.
+
+I  conclude  that  under  applicable  law  the  defense  objection
+to  the  submission  of  this  count  to  the  jury  was  properly
+overruled. Although the amount gave no notice of potential
+irregularity of the transaction, the identification of the account
+holder only by a name not generally known to the public or
+to persons who were bank employees or were often engaged
+in real estate transactions involving units in a condominium,
+and that it was the same name as that involved in Count 72,
+gave indications of something out of the ordinary about this
+transaction.
+
+*130  I conclude that the admissible evidence before the jury
+in relation to this count was sufficient to support the verdict
+on Count 75.
+
+For these reasons, the Order below denies defendant Carucci's
+post-verdict motion for acquittal on Count 75.
+
+X. The Defense Contention on Concealment
+
+[4]
+ In the Charge Conference of April 5, 2002, and again
+in  the  defendant  Carucci's  objections  to  the  charge  after  it
+was  given  and  before  the  jury  commenced  deliberations,
+defendant Carucci objected to the submission of any count
+to the jury on grounds of government misconduct. See Part
+III–A, above, of this Memorandum. This defense contention
+is  that  the  court  should  have  dismissed  the  indictment  and
+that, having failed to do so before verdict, the court should
+now dismiss all counts on which the jury returned verdicts of
+guilty.
+
+ © 2015 Thomson Reuters. No claim to original U.S. Government Works.
+
+11
+
+Williams, Brooke 6/26/2015
+For Educational Use Only
+
+U.S. v. Carucci, 222 F.Supp.2d 117 (2002)
+
+I  find  that  government  misconduct  did  occur,  in  the  form
+of  unwarranted  overcharging.  But  in  view  of  the  rulings
+made on other aspects of Carucci's post-verdict motions, for
+the reasons explained in this Memorandum, I conclude that
+dismissal would be an unwarranted sanction, intruding upon
+the  public's  interest  in  proceedings  fair  and  appropriate  for
+protection of the public's interest as well as the interests of
+the United States Attorney and his assistants in prosecution
+and the defense interests in fair trial. See, e.g., United States
+v.  Font–Ramirez,  944  F.2d  42,  46  (1st  Cir.1991)  (“Even
+where misconduct is present, post-conviction dismissal of an
+indictment is a rare event ...”).
+
+make  a  conditional  ruling  on  his  motion  for  a  new  trial  in
+Docket Number 261 at page 18.
+
+[5]
+  Because  I  find,  as  state  in  Part  IX  above,  that
+prosecutorial  misconduct  did  occur,  and  that  the  weight
+of  the  evidence  does  not  support  the  verdict,  as  I  state  in
+Parts  IV,  V,  VI,  and  VIII,  I  conclude  that  if  the  judgment
+of acquittal I order below is hereafter vacated or reversed a
+new  trial  should  be  granted  for  the  reasons  stated  in  those
+parts. See, e.g., United States v. Dixon, 658 F.2d 181, 193 (3d
+Cir.1981) (noting that court may grant a  *131  new trial for
+prosecutorial misconduct or insufficiency of evidence).
+
+Remaining  for  consideration  is  whether  the  court  should
+invoke the lesser sanction of allowing a new trial on Counts
+73 and 75, which the defendant has requested under Rule 33
+of the Federal Rules of Criminal Procedure. I do not consider
+defendant's request for a new trial on Count 74 because I allow
+defendant's motion for judgment of acquittal on that count.
+
+Although I reach this conclusion based on the combination
+of these two factors, I also conclude that if the judgment of
+acquittal I order below is hereafter vacated or reversed a new
+trial should be granted based solely on the fact that the verdict
+on Counts 70, 71, 72, and 74 is not supported by the weight
+of the evidence.
+
+Defendant  Carucci  argues  that  a  new  trial  is  appropriate
+because  the  government,  in  its  summation,  “improperly
+invited the jury to rely on acquitted conduct.” (Docket No.
+287). Specifically, the defendant asserts that the government's
+references  in  its  summation  to  the  238  Marlborough  Street
+transactions was improper.
+
+I  find  that,  although  the  government  skirted  close  to  the
+demarcation  between  propriety  and  impropriety,  it  did  not
+cross it, at least in its summation.
+
+Although  a  court  may  order  a  new  trial  on  the  basis  of
+prosecutorial  misconduct,  Luttrell  v.  United  States,  320
+F.2d 462 (5th Cir.1963), I conclude that the misconduct in
+this case in the form of unwarranted overcharging does not
+by itself warrant a new trial on Counts 73 and 75.
+
+XI. Conditional Motion for New Trial
+
+Federal  Rule  of  Criminal  Procedure  29(d)  requires  this
+court,  if  it  allows  a  motion  for  judgment  of  acquittal,
+to  “also  determine  whether  any  motion  for  a  new  trial
+should  be  granted  if  the  judgment  of  acquittal  is  thereafter
+vacated  or  reversed,  specifying  the  grounds  for  such
+determination.” Defendant Carucci requested that the court
+
+For  these  reasons,  the  Order  below  allows  the  defendant
+Carucci's conditional motion for a new trial.
+
+ORDER
+
+For the foregoing reasons, it is ORDERED:
+
+(1)  Defendant's  Post–Verdict  Motion  for  Judgment  of
+Acquittal (Docket No. 261)
+
+(a) is SUSTAINED as to Counts 70, 71, 72, and 74; and
+
+(b) is DENIED as to Counts 73 and 75.
+
+(2) The defendant Carucci's motion for new trial on Counts
+73 and 75 is DENIED.
+
+(3) The defendant Carucci's conditional motion for new trial
+on Counts 70, 71, 72, and 74 is ALLOWED.
+
+(4) A Case Management Conference is set for September 5,
+2002, at 10:00 a.m. to consider the schedule for a sentencing
+hearing and final disposition on Counts 73 and 75.
+
+ © 2015 Thomson Reuters. No claim to original U.S. Government Works.
+
+12
+
+Williams, Brooke 6/26/2015
+For Educational Use Only
+
+U.S. v. Carucci, 222 F.Supp.2d 117 (2002)
+
+End of Document
+
+© 2015 Thomson Reuters. No claim to original U.S. Government Works.
+
+ © 2015 Thomson Reuters. No claim to original U.S. Government Works.
+
+13
+
+

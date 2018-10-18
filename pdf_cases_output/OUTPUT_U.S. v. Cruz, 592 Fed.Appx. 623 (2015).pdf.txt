@@ -1,0 +1,166 @@
+Williams, Brooke 6/26/2015
+For Educational Use Only
+
+U.S. v. Cruz, 592 Fed.Appx. 623 (2015)
+
+592 Fed.Appx. 623
+
+This case was not selected for
+
+publication in West's Federal Reporter.
+See Fed. Rule of Appellate Procedure 32.1
+
+generally governing citation of judicial
+decisions issued on or after Jan. 1, 2007.
+See also U.S.Ct. of App. 9th Cir. Rule 36-3.
+
+United States Court of Appeals,
+
+Ninth Circuit.
+
+UNITED STATES of America, Plaintiff–Appellee,
+
+v.
+
+Jonathan CRUZ, Defendant–Appellant.
+
+No. 13–50152.
+Nov. 17, 2014.
+
+ |  Argued and Submitted
+ |  Filed Feb. 18, 2015.
+
+Attorneys and Law Firms
+
+Jarad  E.  Hodes,  Assistant  U.S.,  Fred  Sheppard,  Assistant
+U.S., Bruce R. Castetter, Assistant U.S., Office of the U.S.
+Attorney, San Diego, CA, for Plaintiff–Appellee.
+
+Kristi  A.  Hughes,  Vincent  James  Brunkow,  Federal
+Defenders of San Diego, Inc., San Diego, CA, for Defendant–
+Appellant.
+
+Appeal from the United States District Court for the Southern
+District  of  California,  Anthony  J.  Battaglia,  District  Judge,
+Presiding. D.C. No. 3:11–cr–03639–AJB–1.
+
+Before:  SCHROEDER,  PREGERSON,  and  NGUYEN,
+Circuit Judges.
+
+MEMORANDUM *
+
+Jonathan  Cruz  (“Cruz”)  was  found  guilty  of  importing
+9.84  kilograms  of  marijuana  and  4.50  kilograms  of
+methamphetamine, in violation of 21 U.S.C. §§ 952 and 960,
+and  sentenced  to  the  mandatory  minimum  sentence  of  ten
+years. Cruz appeals his  *624  conviction and sentence. We
+have jurisdiction under 28 U.S.C. § 1291. Because we reverse
+Cruz's conviction for prosecutorial misconduct, we do not
+reach his other issues.
+
+We review prosecutorial misconduct claims for plain error
+where  defense  counsel  failed  to  object  before  the  district
+court.  United  States  v.  Reyes,  660  F.3d  454,  461  (9th
+Cir.2011). Under plain error review, we will reverse Cruz's
+conviction only if the prosecutor's statements were improper
+and the statements resulted in substantial prejudice. United
+States v. Sanchez, 659 F.3d 1252, 1256 (9th Cir.2011).
+
+In rebuttal, the prosecutor argued “[Cruz] is guilty of what
+he  is  charged  with.  Find  him  guilty  and  do  the  right  thing
+and  make  him  finally  take  responsibility  for  what  he  did.”
+By  stating  “do  the  right  thing”  the  prosecutor  improperly
+expressed his personal opinion to the jury. See United States
+v. McKoy, 771 F.2d 1207, 1210–11 (9th Cir.1985). Without
+reference to the evidence or the burden of proof, the “do the
+right thing” statement improperly urged the jury to convict
+on the basis of the prosecutor's subjective belief of what was
+“right,” as opposed to the persuasive force of the evidence.
+See Sanchez, 659 F.3d at 1257 (holding prosecutor's statement
+to  the  jury  to  “send  a  memo  to  all  drug  traffickers”  was
+improper  because  it  urged  the  jury  to  convict  for  reasons
+wholly  irrelevant  to  the  defendant's  guilt  or  innocence);
+United  States  v.  Sanchez,  176  F.3d  1214,  1224–25  (9th
+Cir.1999) (holding prosecutor's statement to the jury that it
+was its duty to find defendant guilty was improper because
+“the prosecutor did not tell the jury that it had a duty to find
+the defendant guilty only if every element of the crime had
+been proven beyond a reasonable doubt.”).
+
+The  prosecutor's  “do  the  right  thing”  statement  was
+prejudicial  to  Cruz  for  several  reasons.  First,  because  the
+prosecutor is the sovereign's representative, the jury may have
+been misled into thinking his “do the right thing” statement
+was validated by the government. See United States v. Kerr,
+981 F.2d 1050, 1053 (9th Cir.1992) (“A prosecutor has no
+business  telling  the  jury  his  individual  impressions  of  the
+evidence.  Because  he  is  the  sovereign's  representative,  the
+jury may be misled into thinking his conclusions have been
+validated  by  the  government's  investigatory  apparatus.”).
+Second,  the  court  did  not  give  a  curative  instruction.
+See  Sanchez,  659  F.3d  at  1258.  Third,  the  prosecutor's
+rebuttal  argument  was  the  last  thing  the  jury  heard  before
+beginning deliberation; this timing increased the risk that the
+prosecutor's improper statement influenced the jurors. Id. at
+1261. We reverse Cruz's convictions and remand for a new
+trial.
+
+ © 2015 Thomson Reuters. No claim to original U.S. Government Works.
+
+1
+
+Williams, Brooke 6/26/2015
+For Educational Use Only
+
+U.S. v. Cruz, 592 Fed.Appx. 623 (2015)
+
+REVERSED and REMANDED.
+
+NGUYEN, Circuit Judge, concurring in part and dissenting
+in part:
+I  agree  that  the  prosecutor's  “do  the  right  thing”  statement
+clearly  constitutes  prosecutorial  misconduct.  However,
+under  plain  error  review,  we  may  only  reverse  when
+“prosecutorial  misconduct  has  deprived  a  defendant  of  a
+fair trial,” which we determine by “look[ing] to the substance
+of  any  curative  instructions  and  the  strength  of  the  case
+against the defendant absent the misconduct.” United States
+v. Sanchez, 659 F.3d 1252, 1257 (9th Cir.2011).
+
+Here, the evidence against Cruz was overwhelming—he was
+caught  red-handed  with  the  drugs  in  his  car  and  confessed
+that he agreed to smuggle the drugs for money. The single
+instance of argument error during the government's rebuttal
+
+did  not  affect  Cruz's  substantial  rights.  Nevertheless,  I  am
+troubled by the government's failure to recognize the error,
+*625  particularly because the same office that prosecuted
+Cruz  recently  assured  us  that  its  training  would  “reinforce
+the principle that all Assistant U.S. Attorneys must be aware
+of the rules pertaining to closing argument and must make
+every  effort  to  stay  well  within  those  rules.”  United  States
+v. Maloney, 755 F.3d 1044, 1046 (9th Cir.2014) (en banc).
+Although  the  trial  in  this  case  occurred  before  Maloney
+was decided, the government, post-Maloney, insisted at oral
+argument  that  its  statement  was  proper.  It  was  not.  As  the
+majority stated, a prosecutor steps outside of his or her proper
+role by encouraging the jury to “do the right thing.”
+
+However, there's no basis for reversal, not on this or the three
+other claims that Cruz also raised on appeal. I therefore would
+affirm.
+
+Footnotes
+*
+
+This disposition is not appropriate for publication and is not precedent except as provided by 9th Cir. R. 36–3.
+
+End of Document
+
+© 2015 Thomson Reuters. No claim to original U.S. Government Works.
+
+ © 2015 Thomson Reuters. No claim to original U.S. Government Works.
+
+2
+
+

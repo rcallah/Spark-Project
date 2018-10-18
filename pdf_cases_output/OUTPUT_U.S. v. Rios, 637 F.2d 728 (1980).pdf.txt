@@ -1,0 +1,364 @@
+Williams, Brooke 6/26/2015
+For Educational Use Only
+
+U.S. v. Rios, 637 F.2d 728 (1980)
+
+637 F.2d 728
+
+United States Court of Appeals,
+
+Tenth Circuit.
+
+UNITED STATES of America, Plaintiff-Appellee,
+
+v.
+
+Juan G. RIOS, Defendant-Appellant.
+
+No. 80-1406.
+
+ |  Argued and Submitted
+
+July 10, 1980.
+
+ |  Decided Nov. 14,
+
+1980.
+
+ |  Rehearing Denied Jan. 12, 1980.
+
+Defendant, whose conviction had been reversed for lack of
+fair  trial  after  a  mistrial  motion  had  been  denied  him,  611
+F.2d 1335, appealed from denial by the United States District
+Court  for  the  District  of  New  Mexico,  Edwin  L.  Mechem,
+J., of his motion to bar retrial on basis of double jeopardy.
+The Court of Appeals, Seth, Chief Judge, held that retrial of
+defendant was not barred where prosecutor did not intend to
+cause a mistrial request to further chances of conviction.
+
+Affirmed.
+
+McKay, Circuit Judge, dissented and filed opinion.
+
+West Headnotes (3)
+
+[1]
+
+Double Jeopardy
+
+Fault of Prosecution
+
+Double jeopardy considerations applicable after
+a  mistrial  has  been  granted  are  applicable  in
+same  manner  when  prosecutorial  misconduct
+requires  reversal  of  a  conviction  for  lack  of  a
+fair trial after mistrial motion has been denied.
+U.S.C.A.Const. Amend. 5.
+
+11 Cases that cite this headnote
+
+[2]
+
+Double Jeopardy
+
+Fault of Prosecution
+
+Double  jeopardy  clause  protects  a  defendant
+against  governmental  actions 
+to
+provoke mistrial requests and thereby to subject
+
+intended 
+
+defendants  to  substantial  burdens  imposed  by
+multiple  prosecutions.  U.S.C.A.Const.  Amend.
+5.
+
+6 Cases that cite this headnote
+
+[3]
+
+Double Jeopardy
+
+Fault of Prosecution
+
+Retrial  of  defendant  after  his  conviction  was
+reversed for lack of a fair trial after defendant's
+mistrial motion had been denied was not barred
+by double jeopardy clause where prosecutor did
+not intend to cause a mistrial request to further
+chances of conviction. U.S.C.A.Const. Amend.
+5.
+
+13 Cases that cite this headnote
+
+Attorneys and Law Firms
+
+*728  Mark C. Dow of Clayburgh, Ashby, Rose & Paskind,
+Albuquerque, N. M., for defendant-appellant.
+
+James F. Blackmer, Asst. U. S. Atty., Albuquerque, N. M. (R.
+E. Thompson, U. S. Atty., Albuquerque, N. M., with him, on
+brief), for plaintiff-appellee.
+
+Before SETH, Chief Judge, and HOLLOWAY and McKAY,
+Circuit Judges.
+
+Opinion
+
+SETH, Chief Judge.
+
+This  Abney  appeal  is  taken  from  denial  of  a  motion
+to  bar  retrial  based  on  the  double  jeopardy  clause  of
+the  Fifth  Amendment.  The  only  issue  is  whether  the
+prosecutor's  behavior  during  the  first  trial  constituted
+deliberate misconduct intended to provoke a mistrial motion
+and  whether  the  double  jeopardy  clause  is  thus  invoked  to
+bar  retrial.  See  United  States  v.  Dinitz,  424  U.S.  600,  96
+S.Ct. 1075, 47 L.Ed.2d 267. Defendant Rios at his first trial
+was convicted by a jury of possession of heroin with intent
+to distribute. Defense counsel moved for a mistrial after the
+prosecution's closing argument urging that improper remarks
+had  prejudiced  the  defendant.  The  motion  was  denied.
+
+ © 2015 Thomson Reuters. No claim to original U.S. Government Works.
+
+1
+
+Williams, Brooke 6/26/2015
+For Educational Use Only
+
+U.S. v. Rios, 637 F.2d 728 (1980)
+
+We  reversed  the  conviction  in  United  States  v.  Rios,  611
+F.2d  1335  (10th  Cir.),  because  prosecutorial  misconduct
+prevented a fair trial.
+
+Defendant moved at his second trial to bar retrial based on
+double jeopardy. An  *729  evidentiary hearing was held on
+the issue, and the motion was denied. This appeal followed.
+
+This  case  is  somewhat  different  from  the  Dinitz  line  of
+cases in which prosecutorial misconduct actually caused a
+mistrial  to  be  granted  in  the  trial  court.  Here,  the  mistrial
+motion  was  denied.  The  same  procedural  situation  was
+however  presented  to  the  Pennsylvania  Supreme  Court  in
+Commonwealth  v.  Potter,  478  Pa.  251,  386  A.2d  918.  See
+also the comment, The Double Jeopardy Clause and Mistrials
+Granted on Defendant's Motion: What Kind of Prosecutorial
+Misconduct Precludes Reprosecution? 18 Duquesne L.Rev.
+103 (1979). Although equally divided on the final judgment,
+the majority of the justices in Potter concluded that reversal
+of a conviction for prosecutorial misconduct after a mistrial
+has been denied should be treated the same for purposes of
+double jeopardy analysis as if the mistrial had been granted
+in the first instance, and said:
+
+in 
+
+[1]
+  We  conclude  that  double  jeopardy  considerations
+applicable  after  a  mistrial  has  been  granted  are  indeed
+the  same  manner  when  prosecutorial
+applicable 
+misconduct  requires  reversal  of  a  conviction  for  lack  of  a
+fair  trial  after  a  mistrial  motion  has  been  denied.  We  have
+dealt with the standard for retrial after a mistrial is caused by
+prosecutorial misconduct in United States v. Leonard, 593
+F.2d 951, 954 (10th Cir.). We there stated:
+
+“The  Double  Jeopardy  Clause  does  protect  a  defendant
+against governmental actions intended to provoke mistrial
+requests and thereby to subject defendants to the substantial
+burdens imposed by multiple prosecutions. It bars retrials
+where ‘bad-faith conduct by judge or prosecutor,’ United
+States v. Jorn, supra, at (400 U.S. 470) 485, (91 S.Ct. 547
+at  557,  27  L.Ed.2d  543)  threatens  the  ‘(h)  arassment  of
+an accused by successive prosecutions or declaration of a
+mistrial so as to afford the prosecution a more favorable
+opportunity to convict’ the defendant.”
+
+See also our United States v. Brooks, 599 F.2d 943, 945 (10th
+Cir.):
+
+“As we have noted, appellant's mistrial
+motions  during  the  course  of  the
+second trial were denied, but were later
+deemed  meritorious  by  the  court  en
+banc,  with  the  result  that  a  new  trial
+was awarded. The question then arises
+whether  the  fact  that  a  new  trial  was
+the result of a decision by a reviewing
+court  rather  than  the  declaration  of  a
+mistrial by the trial judge requires that
+the  exceptions  to  the  Ball  principle
+cannot  be  considered.  We  think  not;
+a  distinction  between  granting  a  new
+trial  at  the  urging  of  a  defendant
+and  ordering  a  mistrial  at  his  request
+is  without  significance  for  double
+jeopardy  purposes.  Recent  cases  in
+the  Supreme  Court  of  the  United
+States  have  emphasized  that  in  the
+field  of  federal  criminal  practice
+the  applicability  of  double  jeopardy
+analysis  is  not  dependent  on  nice
+procedural distinctions.”
+
+“In  Dinitz,  the  Supreme  Court  held
+that  a  request  by  a  defendant  for
+a  mistrial  ordinarily  removes  any
+barrier to his reprosecution, even if the
+request  is  prompted  by  prosecutorial
+or  judicial  error.  Under  Dinitz,  the
+only  exception  to  the  general  rule  is
+where bad faith conduct by the judge
+or prosecutor threatens harassment of
+an accused by successive prosecution
+so as to afford the prosecution a more
+favorable opportunity to convict.”
+
+Accord, United States v. Clayborne, 584 F.2d 346 (10th Cir.);
+United States v. Nelson, 582 F.2d 1246 (10th Cir.); United
+States v. Rumpf, 576 F.2d 818 (10th Cir.); United States v.
+Buzzard, 540 F.2d 1383 (10th Cir.).
+
+[2]
+  Thus  “  ‘(t)he  Double  Jeopardy  Clause  does  protect  a
+defendant against governmental actions intended to provoke
+mistrial  requests  and  thereby  to  subject  defendants  to  the
+substantial  burdens  imposed  by  multiple  prosecutions.’  ”
+United States v. Scott, 437 U.S. 82, 94, 98 S.Ct. 2187, 2195,
+
+ © 2015 Thomson Reuters. No claim to original U.S. Government Works.
+
+2
+
+Williams, Brooke 6/26/2015
+For Educational Use Only
+
+U.S. v. Rios, 637 F.2d 728 (1980)
+
+57 L.Ed.2d 65, citing United States v. Dinitz, 424 U.S. at 611,
+96 S.Ct. at 1081.
+
+[3]
+  Under  this  standard,  retrial  is  allowable  here  because
+the  record  demonstrates  that  the  prosecutor  did  not  intend
+to cause  *730  a mistrial request to further the chances of
+conviction.  The  trial  court  so  found.  At  the  hearing  on  the
+motion to bar reprosecution, the prosecutor testified that he
+definitely did not want to retry the case for several reasons.
+
+The  trial  court  found  no  action  by  the  prosecution  was
+intended to cause a mistrial, and the evidence supports this
+finding. Although such prosecutorial misconduct is not to
+be  condoned,  “bad  faith  in  the  abstract  does  not  help  the
+defendant in any event. It must be bad faith, the impact of
+which provokes a mistrial request.” United States v. Leonard,
+593 F.2d 951, 954 (10th Cir.).
+
+We cannot conclude under the circumstances revealed in the
+record that provoking a mistrial request was a motive of the
+prosecutor.  The  record  instead  indicates  that  a  very  strong
+case had been made against the defendant, that government
+witnesses might not be again available, and that no purpose
+would  have  been  served  by  forcing  a  mistrial  in  order
+to  enhance  the  prosecution's  opportunity  for  conviction  at
+another trial.
+
+AFFIRMED.
+
+McKAY, Circuit Judge, dissenting:
+In  Lee  v.  United  States,  432  U.S.  23,  97  S.Ct.  2141,
+52  L.Ed.2d  80  (1977),  the  Supreme  Court  characterized
+the  rule  laid  down  in  United  States  v.  Dinitz,  424  U.S.
+600,  96  S.Ct.  1075,  47  L.Ed.2d  267  (1976),  as  follows:
+“(T)here  was  no  double  jeopardy  barrier  to  petitioner's
+retrial unless the judicial or prosecutorial error that prompted
+petitioner's motion was ‘intended to provoke’ the motion or
+was otherwise ‘motivated by bad faith or undertaken to harass
+or prejudice’ petitioner.” 432 U.S. at 33-34, 97 S.Ct. at 2147
+(quoting United States v. Dinitz, 424 U.S. at 611, 96 S.Ct. at
+1081) (emphasis added).
+
+The Court's failure to find a double jeopardy violation in Lee
+was based on the majority's conclusion that the prosecution's
+conduct  did  not  evidence  bad  faith.  That  element  has  been
+
+supplied  here  by  our  own  decision  in  the  previous  appeal
+of  this  case,  United  States  v.  Rios,  611  F.2d  1335  (10th
+Cir.  1979).  There  we  effectively  held  that  the  prosecutor's
+comments constituted gross prosecutorial misconduct:
+
+The  effect  of  these  assertions  before  the  jury  was  that
+defense  counsel's  investigator  was  clearly  charged  with
+contriving  the  defense  testimony,  with  no  factual  basis
+to  justify  such  a  serious  charge.  Similar  comments  have
+been  condemned  by  this  court  recently  in  United  States
+v. Siviglia, No. 76-1914 (10th Cir. 6/5/78) (unpublished).
+There  counsel  argued  that  a  witness  had  lied  because
+defense counsel had told him to do so. We emphatically
+stated (slip op. 33-34):
+
+We hold and conclude that the prosecutor's comments
+constituted  gross  prosecutorial  misconduct  requiring
+reversal of Siviglia's conviction ....
+
+Second, there were remarks clearly directed at the appellant
+in the closing rebuttal, drawing an inference that appellant
+had threatened the safety of the Vega brothers who were
+testifying against him. There was no evidence linking the
+appellant to any such threats to the Vegas and the innuendo
+was unfounded and unfair....
+
+Third,  there  was  a  strong  statement  of  the  prosecuting
+attorney's conclusion that the appellant was a large dealer
+in heroin....
+
+We must agree that the effect of this rebuttal argument was
+to impress the jury with the prosecuting attorney's personal
+conclusion  that  the  appellant  was  guilty.  Such  remarks
+expressing the personal opinion of the prosecuting attorney
+have been emphatically disapproved....
+
+...In such a case, with so much riding on the credibility of
+the appellant, and in view of the errors discussed, we must
+hold  that  the  prosecutorial  misconduct  was  prejudicial
+error which denied appellant a fair trial.
+
+*731  United States v. Rios, 611 F.2d 1335, 1342-43 (10th
+Cir. 1979) (footnotes and citations omitted). Such conduct is,
+in my opinion, tantamount to bad faith.
+
+To  suggest  that  the  double  jeopardy  clause  is  not  violated
+unless the defendant can show (presumably only through the
+prosecutor's  confession)  that  the  subjective  purpose  of  the
+prosecutor was to obtain a mistrial invites the prosecution to
+
+ © 2015 Thomson Reuters. No claim to original U.S. Government Works.
+
+3
+
+Williams, Brooke 6/26/2015
+For Educational Use Only
+
+U.S. v. Rios, 637 F.2d 728 (1980)
+
+go as far as it wishes, knowing that the only sanction it faces is
+a new trial. Such a conclusion offends the spirit of Dinitz and
+Lee and the requirements of the double jeopardy clause. Any
+suggestion to the contrary in our previous cases, see United
+
+States v. Leonard, 593 F.2d 951 (10th Cir. 1979), should not
+be followed.
+
+End of Document
+
+© 2015 Thomson Reuters. No claim to original U.S. Government Works.
+
+ © 2015 Thomson Reuters. No claim to original U.S. Government Works.
+
+4
+
+

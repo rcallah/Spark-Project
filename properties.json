@@ -1,0 +1,12 @@
+{
+  "input_press_release_directory":"press_release_input_json",
+  "input_press_release_file":"press_releases_south_dakota_cleaned.json",
+  "output_press_release_directory":"press_release_output_json",
+  "output_press_release_file":"press_releases_south_dakota_cleaned_ner.json",
+  "output_cases_directory":"cases_output_json",
+  "output_cases_file":"cases_output_ner.json",
+  "stanford_classifer":"stanford-ner/english.muc.7class.distsim.crf.ser.gz",
+  "stanford_jar":"stanford-ner/stanford-ner.jar",
+  "pdf_cases_input":"pdf_cases_input",
+  "pdf_cases_output":"pdf_cases_output"
+}
