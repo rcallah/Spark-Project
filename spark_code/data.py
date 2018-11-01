@@ -87,6 +87,8 @@ df['comb'] = [' '.join(val) for val in df['comb'].values]
 #print(df['aleg_terms'])
 
 
+""" USING TFID VECTORIZATION """
+"""
 out = vec.fit_transform(df['aleg_terms'].values)
 ret = pd.DataFrame(out.toarray(), columns=vec.get_feature_names())
 
@@ -105,21 +107,130 @@ tfid3 = ret3.values.tolist()
 df['aleg_terms'] = ret.values.tolist()
 tfid = ret.values.tolist()
 
-#print(np.shape(tfid))
-#print(np.shape(tfid2))
-#print(np.shape(tfid3))
 
-X_train = tfid[0:275]
+X_train = tfid3[0:275]
 y_train = df['outcome'].values.tolist()[0:275]
-X_test = tfid[275:]
+X_test = tfid3[275:]
 y_test = df['outcome'].values.tolist()[275:]
+"""
+"""    	END TFID VECTORIZATION				"""
 
+
+""" 	USING COUNT VECTORIZATION """
+"""
+from sklearn.feature_extraction.text import CountVectorizer
+vec = CountVectorizer()
+
+
+count = vec.fit_transform(df['aleg_terms'].values)
+count = pd.DataFrame(count.toarray(), columns=vec.get_feature_names())
+cvec = count.values.tolist()
+
+count2 = vec.fit_transform(df['deter_terms'].values)
+count2 = pd.DataFrame(count2.toarray(), columns=vec.get_feature_names())
+cvec2 = count2.values.tolist()
+
+count3 = vec.fit_transform(df['comb'].values)
+count3 = pd.DataFrame(count3.toarray(), columns=vec.get_feature_names())
+cvec3 = count3.values.tolist()
+
+
+X_train = cvec3[0:275]
+y_train = df['outcome'].values.tolist()[0:275]
+X_test = cvec3[275:]
+y_test = df['outcome'].values.tolist()[275:]
+"""
+
+"""			END COUNT VECTORIZATION					"""
+
+
+
+""" 	USING MULTI DIMENSIONAL SCALING		"""
+from sklearn.manifold import MDS
+
+"""
+embedding = MDS(n_components=1)
+
+#X_trans = embedding.fit_transform(X_train)
+#X_test_trans = embedding.fit_transform(X_test)
+x_aleg = embedding.fit_transform(cvec)
+x_deter = embedding.fit_transform(cvec2)
+x_mds_comb = [np.append(a, b) for a,b in list(zip(x_aleg, x_deter))]
+X_train = x_mds_comb[0:275]
+X_test = x_mds_comb[275:]
+"""
+
+"""			END MULTI DIMENSIONAL SCALING 		"""
+
+
+
+
+
+"""		USING SUPPORT VECTOR MACHINE	"""
+#embedding = MDS(n_components=50)
+#X_train = embedding.fit_transform(X_train)
+#X_test = embedding.fit_transform(X_test)
+"""
+from sklearn.svm import SVC
+clf = SVC(gamma='auto')
+clf.fit(X_train, y_train)
+#clf.fit(X_trans, y_train) #MDS set
+SVC(C=1.0, cache_size=200, class_weight=None, coef0=0.0,
+    decision_function_shape='ovr', degree=3, gamma='auto', kernel='rbf',
+    max_iter=-1, probability=False, random_state=None, shrinking=True,
+    tol=0.001, verbose=False)
+print(clf.predict(X_test))
+#pred = clf.predict(X_test_trans) #mds
+score2 = clf.score(X_test, y_test)
+#score2 = clf.score(X_test_trans, y_test) #mds
+print(score2)
+"""
+
+"""			END SUPPORT VECTOR MACHINE			"""
+
+
+
+"""		USING LOGISTIC REGRESSION 		"""
+"""
 from sklearn.linear_model import LogisticRegressionCV
 clf = LogisticRegressionCV(random_state=0, solver='lbfgs', multi_class='multinomial').fit(X_train, y_train)
 preds = clf.predict(X_test)
 probs = clf.predict_proba(X_test)
+score = clf.score(X_test, y_test)
+print(score)
+"""
+
+"""		END LOGISTIC REGRESSION			"""
 
 
+
+
+""" 	USING RAINFOREST CLASSIFIER 	"""
+#cvec = aleg
+#cvec2 = deter
+"""
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.datasets import make_classification
+clf = RandomForestClassifier(n_estimators=100, max_depth=2,
+                              random_state=0)
+clf.fit(X_train, y_train)
+RandomForestClassifier(bootstrap=True, class_weight=None, criterion='gini',
+            max_depth=2, max_features='auto', max_leaf_nodes=None,
+            min_impurity_decrease=0.0, min_impurity_split=None,
+            min_samples_leaf=1, min_samples_split=2,
+            min_weight_fraction_leaf=0.0, n_estimators=100, n_jobs=None,
+            oob_score=False, random_state=0, verbose=0, warm_start=False)
+print(clf.feature_importances_)
+print(clf.predict(X_test))
+print(clf.score(X_test, y_test))
+"""
+"""			END RAINFOREST CLASSIFIER			"""
+
+
+
+
+
+"""
 import matplotlib.pyplot as plt
 
 score = clf.score(X_test, y_test)
@@ -127,8 +238,27 @@ print(score)
 yes = score
 no = 1-score
 chart = [yes, no]
-labels = [r'Correct - 80.2%', r'Incorrect - 19.8%']
+labels = [r'Correct - ' + str(round(yes, 3)), r'Incorrect - ' + str(round(no, 3))]
 patches, texts = plt.pie(chart)
 plt.legend(patches, labels, loc="best")
 #plt.pie(chart)
 plt.show()
+"""
+
+
+"""
+Results:
+tfid aleg = 80.2%
+tfid deter = 80.2%
+tfid comb = 80.2%
+count aleg = 80.2%
+count deter = 80.2%
+count comb = 83.5%
+rainforest w/ MDS = 80.2%
+rainforest w/out MDS = 80.2%
+SVM - count - MDS 1 = 76%
+SVM - comb - count - MDS 5 = 80.2%
+SVM - aleg - count - MDS 1 = 80.2%
+"""
+
+#TRY USING MDS TO REDUCE ALEG AND DETER INDIVIDUALLY
