@@ -25,6 +25,7 @@ misconduct_terms = [' no misconduct', 'REVIEW', 'harmless error/no misconduct',
 
 remove_terms = ['no determinatation','no determination', 'na','no ruling', 'no ruling???', 'not determined','procedurally defaulted', 'time-barred (did not determine)']
 
+print(data.keys())
 
 data['new_outs'] = 0
 drop = []
@@ -117,7 +118,7 @@ y_test = df['outcome'].values.tolist()[275:]
 
 
 """ 	USING COUNT VECTORIZATION """
-"""
+
 from sklearn.feature_extraction.text import CountVectorizer
 vec = CountVectorizer()
 
@@ -139,7 +140,7 @@ X_train = cvec3[0:275]
 y_train = df['outcome'].values.tolist()[0:275]
 X_test = cvec3[275:]
 y_test = df['outcome'].values.tolist()[275:]
-"""
+
 
 """			END COUNT VECTORIZATION					"""
 
@@ -191,14 +192,14 @@ print(score2)
 
 
 """		USING LOGISTIC REGRESSION 		"""
-"""
+
 from sklearn.linear_model import LogisticRegressionCV
 clf = LogisticRegressionCV(random_state=0, solver='lbfgs', multi_class='multinomial').fit(X_train, y_train)
 preds = clf.predict(X_test)
 probs = clf.predict_proba(X_test)
 score = clf.score(X_test, y_test)
 print(score)
-"""
+
 
 """		END LOGISTIC REGRESSION			"""
 
@@ -230,7 +231,7 @@ print(clf.score(X_test, y_test))
 
 
 
-"""
+
 import matplotlib.pyplot as plt
 
 score = clf.score(X_test, y_test)
@@ -243,7 +244,7 @@ patches, texts = plt.pie(chart)
 plt.legend(patches, labels, loc="best")
 #plt.pie(chart)
 plt.show()
-"""
+
 
 
 """
