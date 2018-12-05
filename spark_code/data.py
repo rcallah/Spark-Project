@@ -9,13 +9,7 @@ data = pd.read_csv("federal_sample_20170408.csv")
 params = ['txt_link', 'alleged_pros_misconduct', 'misconduct_determination']
 new = data[params]
 data = pd.DataFrame(data)
-#print(data['misconduct_determination'].iloc[:50])
-#data['misconduct_determination'] = data[data.misconduct_determination.str.strip() != 'no misconduct']
-#print(data.keys())
-#print(data['misconduct_determination'].iloc[:10])
 
-#conduct_cases = data[pd.notnull(data['misconduct_determination'])]
-#print(np.unique(conduct_cases['misconduct_determination']))
 
 misconduct_terms = [' no misconduct', 'REVIEW', 'harmless error/no misconduct',
  'harmless error/no misconduct?', 'harmless error/no misconduct??','motion denied' ,
@@ -25,7 +19,6 @@ misconduct_terms = [' no misconduct', 'REVIEW', 'harmless error/no misconduct',
 
 remove_terms = ['no determinatation','no determination', 'na','no ruling', 'no ruling???', 'not determined','procedurally defaulted', 'time-barred (did not determine)']
 
-print(data.keys())
 
 data['new_outs'] = 0
 drop = []
@@ -49,31 +42,15 @@ data = data.drop(drop)
 data = data.drop(to_drop)
 data = data.reset_index()
 
-"""
-conduct_cases = [i[0] for i in conduct_cases]
-#data = data.reset_index()
-data['outcome'] = 0
-for index, x in data.iterrows():
-	if x['orig_pdf'] in conduct_cases:
-		data['outcome'].loc[index] = 1
-"""
+
 data['outcome'] = data['new_outs']
-#print(data['new_outs'])
-
-#miscons = data[data['outcome'] == 1]
-#print(len(miscons))
-
-#print(data.keys())
 df = data[['orig_pdf', 'outcome']]
 df['aleg_terms'] = data[['allegation_term_1', 'allegation_term_2', 'allegation_term_3', 'allegation_term_4', 'allegation_term_5', 'allegation_term_6']].values.tolist()
 df['deter_terms'] = data[['misconduct_determination_term1', 'misconduct_determination_term2', 'misconduct_determination_term3', 'misconduct_determination_term4', 'misconduct_determination_term5', 'misconduct_determination_term6']].values.tolist()
 df['comb'] = ([a + b for a, b in zip(df['aleg_terms'].values.tolist(), df['deter_terms'].values.tolist())])
 
 
-#print(df['deter_terms'])
-#print(df['aleg_terms'])
-from sklearn.feature_extraction.text import TfidfVectorizer
-vec = TfidfVectorizer()
+""" PREPROCESSING 1. JUST ALEG, 2. JUST DETER, 3. BOTH """
 df['aleg_terms'] = [[str(val) for val in sublist] for sublist in df['aleg_terms'].values]
 df['aleg_terms'] = [' '.join(val) for val in df['aleg_terms'].values]
 
@@ -82,14 +59,14 @@ df['deter_terms'] = [' '.join(val) for val in df['deter_terms'].values]
 
 df['comb'] = [[str(val) for val in sublist] for sublist in df['comb'].values]
 df['comb'] = [' '.join(val) for val in df['comb'].values]
-
-
-#print(df['deter_terms'])
-#print(df['aleg_terms'])
+""" END PREPROCESSING """
 
 
 """ USING TFID VECTORIZATION """
 """
+from sklearn.feature_extraction.text import TfidfVectorizer
+vec = TfidfVectorizer()
+
 out = vec.fit_transform(df['aleg_terms'].values)
 ret = pd.DataFrame(out.toarray(), columns=vec.get_feature_names())
 
@@ -147,13 +124,9 @@ y_test = df['outcome'].values.tolist()[275:]
 
 
 """ 	USING MULTI DIMENSIONAL SCALING		"""
-from sklearn.manifold import MDS
-
 """
+from sklearn.manifold import MDS
 embedding = MDS(n_components=1)
-
-#X_trans = embedding.fit_transform(X_train)
-#X_test_trans = embedding.fit_transform(X_test)
 x_aleg = embedding.fit_transform(cvec)
 x_deter = embedding.fit_transform(cvec2)
 x_mds_comb = [np.append(a, b) for a,b in list(zip(x_aleg, x_deter))]
@@ -171,6 +144,7 @@ X_test = x_mds_comb[275:]
 #embedding = MDS(n_components=50)
 #X_train = embedding.fit_transform(X_train)
 #X_test = embedding.fit_transform(X_test)
+
 """
 from sklearn.svm import SVC
 clf = SVC(gamma='auto')
@@ -197,8 +171,9 @@ from sklearn.linear_model import LogisticRegressionCV
 clf = LogisticRegressionCV(random_state=0, solver='lbfgs', multi_class='multinomial').fit(X_train, y_train)
 preds = clf.predict(X_test)
 probs = clf.predict_proba(X_test)
+#print(probs)
 score = clf.score(X_test, y_test)
-print(score)
+#print(score)
 
 
 """		END LOGISTIC REGRESSION			"""
@@ -231,7 +206,7 @@ print(clf.score(X_test, y_test))
 
 
 
-
+""" PLOT RESULTS """
 import matplotlib.pyplot as plt
 
 score = clf.score(X_test, y_test)
@@ -242,7 +217,6 @@ chart = [yes, no]
 labels = [r'Correct - ' + str(round(yes, 3)), r'Incorrect - ' + str(round(no, 3))]
 patches, texts = plt.pie(chart)
 plt.legend(patches, labels, loc="best")
-#plt.pie(chart)
 plt.show()
 
 
