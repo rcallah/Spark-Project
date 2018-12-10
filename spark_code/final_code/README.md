@@ -1,0 +1,6 @@
+## Requirements
+ - pandas >= 0.23.4
+ - numpy >= 1.14.5
+ - wordcloud >= 1.5.0
+ - matplotlib >= 3.0.0
+ - scikit_learn >= 0.20.1
