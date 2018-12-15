@@ -3,7 +3,7 @@
 This is a Natural Language Processing (NLP) & Supervised Machine Learning (ML) problem to determine if there is a prosecutor misconduct involved in a federal prosecutor case. We have a dataset of 624 labeled cases (467 are "no misconduct" & 157 "misconduct" cases) of which we use 80% to train the model and 20% to validate the model respectfully. We use StratifiedKFold cross-validator to ensure an equal distribution of both "misconduct" and "no misonduct" cases in the training & testing process. We have tried Logistic Regression, Random Forest, Support Vector Machine (SVM), Recurrent Neural Network (RNN) and Convolutional Neural Network (CNN) to solve this problem. As the result of comparing, Logistic Regression model could achieve 80% accuracy which is the highest.
 
 # Implementations
-- [Logistic Regression, Random Forest, Support Vector Machine (SVM)](./final_code/README.md)
+- [Logistic Regression, Random Forest, Support Vector Machine (SVM)](./spark_code/final_code)
 - [Recurrent Neural Network (RNN)](./spark_code/neural_net/rnn.ipynb)
 - [Convolutional Neural Network (CNN)](./spark_code/neural_net/cnn.ipynb)
 - [Preprocessing](./spark_code/neural_net/preprocessing)
