@@ -18,12 +18,18 @@ This is a Natural Language Processing (NLP) & Supervised Machine Learning (ML) p
 
 # Requirements
 Logistic Regression, Random Forest, Support Vector Machine (SVM)
+```
  - pandas >= 0.23.4
  - numpy >= 1.14.5
  - wordcloud >= 1.5.0
  - matplotlib >= 3.0.0
  - scikit_learn >= 0.20.1
+ ```\
 Recurrent Neural Network (RNN) & Convolutional Neural Network (CNN)
+```
  - download [glove.6B.zip](http://nlp.stanford.edu/data/glove.6B.zip)
+ ```\
 Preprocessing
+```
  - install [textract](https://textract.readthedocs.io/en/stable/installation.html)
+ ```
