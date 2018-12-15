@@ -6,7 +6,7 @@ This is a Natural Language Processing (NLP) & Supervised Machine Learning (ML) p
 - [Logistic Regression, Random Forest, Support Vector Machine (SVM)](./final_code/README.md)
 - [Recurrent Neural Network (RNN)](./spark_code/neural_net/rnn.ipynb)
 - [Convolutional Neural Network (CNN)](./spark_code/neural_net/cnn.ipynb)
-- [Preprocessing](./spark_code/neural_net/preprocessing/README.md)
+- [Preprocessing](./spark_code/neural_net/preprocessing)
 
 # Tools
 - [Keras](https://keras.io)
@@ -17,13 +17,10 @@ This is a Natural Language Processing (NLP) & Supervised Machine Learning (ML) p
 - [Google Colaboratory](https://colab.research.google.com)
 
 # Requirements
-Logistic Regression, Random Forest, Support Vector Machine (SVM)
  - pandas >= 0.23.4
  - numpy >= 1.14.5
  - wordcloud >= 1.5.0
  - matplotlib >= 3.0.0
  - scikit_learn >= 0.20.1\
-Recurrent Neural Network (RNN) & Convolutional Neural Network (CNN)
  - download [glove.6B.zip](http://nlp.stanford.edu/data/glove.6B.zip)\
-Preprocessing
  - install [textract](https://textract.readthedocs.io/en/stable/installation.html)
