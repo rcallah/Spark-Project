@@ -1,0 +1,2 @@
+# Understanding the source code
+The data.py script contains Machine Learning algorithms such as Support Vector Machine, Logistic Regression and Rainforest Classifier. 2 different types of word vectorizations are used TFID & Count Vectorization. Uncommenting is required to use them respectively.
