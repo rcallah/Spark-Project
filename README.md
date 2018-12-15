@@ -21,6 +21,6 @@ This is a Natural Language Processing (NLP) & Supervised Machine Learning (ML) p
  - numpy >= 1.14.5
  - wordcloud >= 1.5.0
  - matplotlib >= 3.0.0
- - scikit_learn >= 0.20.1\
- - download [glove.6B.zip](http://nlp.stanford.edu/data/glove.6B.zip)\
+ - scikit_learn >= 0.20.1
+ - download [glove.6B.zip](http://nlp.stanford.edu/data/glove.6B.zip)
  - install [textract](https://textract.readthedocs.io/en/stable/installation.html)
